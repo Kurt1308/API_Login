@@ -32,7 +32,7 @@ namespace Adapter.Utils
             claims_token.Add(new Claim("situacao", usuario.situacao.ToString()));
             claims_token.Add(new Claim("administrador", usuario.administrador.ToString()));
             claims_token.Add(new Claim("grupo", usuario.grupo.ToString()));
-            claims_token.Add(new Claim("nomeGrupo", usuario.authgrupo_nav.nomeGrupo));
+            //claims_token.Add(new Claim("nomeGrupo", usuario.authgrupo_nav.nomeGrupo));
             claims_token.Add(new Claim("cpf", usuario.Cpf));
 
             foreach (var role in acessos)
