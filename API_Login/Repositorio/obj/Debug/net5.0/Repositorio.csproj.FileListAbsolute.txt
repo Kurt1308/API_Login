@@ -17,3 +17,4 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\R
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\refint\Repositorio.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\Repositorio.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\ref\Repositorio.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\Dominio.xml

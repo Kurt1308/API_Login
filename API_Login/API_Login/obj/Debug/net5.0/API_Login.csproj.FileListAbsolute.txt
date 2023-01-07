@@ -90,3 +90,5 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API_Login.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API_Login.genruntimeconfig.cache
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\ref\API_Login.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\AplicacaoDto.xml
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Dominio.xml

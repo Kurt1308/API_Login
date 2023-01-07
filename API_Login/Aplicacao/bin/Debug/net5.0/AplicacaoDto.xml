@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AplicacaoDto</name>
+    </assembly>
+    <members>
+        <member name="T:ApplicationDTO.RequestDTO.RequestTokenDTO">
+            <summary>
+            Requisição para busca do token de login
+            </summary>
+        </member>
+        <member name="P:ApplicationDTO.RequestDTO.RequestTokenDTO.username">
+             <summary>
+              Usuário
+             </summary>
+             <example>harry.potter</example>
+            
+        </member>
+        <member name="P:ApplicationDTO.RequestDTO.RequestTokenDTO.password">
+             <summary>
+              Senha
+             </summary>
+             <example>chrissucodefrutas</example>
+            
+        </member>
+        <member name="T:ApplicationDTO.ResponseDTO.ResponseDTO">
+            <summary>
+            DTO de Resposta base a ser herdados pelos demais
+            </summary>
+        </member>
+        <member name="P:ApplicationDTO.ResponseDTO.ResponseDTO.codRetorno">
+            <summary>
+            Código da resposta HTTP a ser definida
+            </summary>
+        </member>
+        <member name="P:ApplicationDTO.ResponseDTO.ResponseDTO.mensagem">
+            <summary>
+            Mensagem de retorno do sistema
+            </summary>
+        </member>
+        <member name="T:ApplicationDTO.ResponseDTO.ResponseTokenDTO">
+            <summary>
+            DTO de Resposta HTTP 
+            </summary>
+        </member>
+        <member name="P:ApplicationDTO.ResponseDTO.ResponseTokenDTO.token">
+            <summary>
+            String token
+            </summary>
+        </member>
+    </members>
+</doc>

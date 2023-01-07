@@ -15,3 +15,5 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Adaptador\obj\Debug\net5.0\Ada
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Adaptador\obj\Debug\net5.0\refint\Adaptador.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Adaptador\obj\Debug\net5.0\Adaptador.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Adaptador\obj\Debug\net5.0\ref\Adaptador.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Adaptador\bin\Debug\net5.0\AplicacaoDto.xml
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Adaptador\bin\Debug\net5.0\Dominio.xml
