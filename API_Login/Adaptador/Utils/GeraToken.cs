@@ -21,8 +21,8 @@ namespace Adapter.Utils
                .Build();
 
             var dtimeExpiry = DateTime.Now.AddHours(2);
-            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]));
-            var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256Signature);
+            //var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]));
+            //var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256Signature);
 
             var claims_token = new List<Claim>();
 
@@ -38,7 +38,7 @@ namespace Adapter.Utils
             foreach (var role in acessos)
                 claims_token.Add(new Claim("role", role.NomeComposto));
 
-            var token = new JwtSecurityToken(claims: claims_token, issuer: Configuration["Jwt:Issuer"], audience: Configuration["Jwt:Audience"], expires: dtimeExpiry, signingCredentials: credentials);
+            var token = new JwtSecurityToken(claims: claims_token, issuer: Configuration["Jwt:Issuer"], audience: Configuration["Jwt:Audience"], expires: dtimeExpiry);
             var tokenHandler = new JwtSecurityTokenHandler();
             var stringToken = tokenHandler.WriteToken(token);
             return "Bearer " + stringToken;
