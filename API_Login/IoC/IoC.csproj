@@ -8,4 +8,11 @@
     <PackageReference Include="Autofac" Version="6.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Adaptador\Adaptador.csproj" />
+    <ProjectReference Include="..\Aplicacao\Aplicacao.csproj" />
+    <ProjectReference Include="..\Repositorio\Repositorio.csproj" />
+    <ProjectReference Include="..\Servico\Servico.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,12 @@
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\bin\Debug\net5.0\AplicacaoDto.deps.json
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\bin\Debug\net5.0\AplicacaoDto.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\bin\Debug\net5.0\AplicacaoDto.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.csproj.AssemblyReference.cache
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.AssemblyInfoInputs.cache
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.AssemblyInfo.cs
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.csproj.CoreCompileInputs.cache
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\refint\AplicacaoDto.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\AplicacaoDto.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\AplicacaoDto\obj\Debug\net5.0\ref\AplicacaoDto.dll

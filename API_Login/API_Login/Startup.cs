@@ -85,12 +85,12 @@ namespace API_Login
                     }
                   });
                 //c.SupportNonNullableReferenceTypes();
-                //var API_Login = Path.Combine(System.AppContext.BaseDirectory, "API_Login.xml");
-                //var xmlAplicationDTO = Path.Combine(System.AppContext.BaseDirectory, "ApplicationDTO.xml");
-                //var xmlDomain = Path.Combine(System.AppContext.BaseDirectory, "Domain.xml");
-                //c.IncludeXmlComments(API_Login);
-                //c.IncludeXmlComments(xmlAplicationDTO);
-                //c.IncludeXmlComments(xmlDomain);
+                var API_Login = Path.Combine(System.AppContext.BaseDirectory, "API_Login.xml");
+                //var xmlAplicacaoDto = Path.Combine(System.AppContext.BaseDirectory, "AplicacaoDto.xml");
+                //var xmlDominio = Path.Combine(System.AppContext.BaseDirectory, "Dominio.xml");
+                c.IncludeXmlComments(API_Login);
+                //c.IncludeXmlComments(xmlAplicacaoDto);
+                //c.IncludeXmlComments(xmlDominio);
             });
         }
 
@@ -124,6 +124,7 @@ namespace API_Login
                 });
             });
         }
+
         private void SetupJWTServices(IServiceCollection services)
         {
             services.AddAuthentication(options =>
@@ -140,8 +141,9 @@ namespace API_Login
                      ValidIssuer = Configuration["Jwt:Issuer"],
                      ValidAudience = Configuration["Jwt:Audience"],
                      ValidateIssuerSigningKey = true,
-                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
-                 };
+                     //IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+             };
+
 
                  options.Events = new JwtBearerEvents
                  {

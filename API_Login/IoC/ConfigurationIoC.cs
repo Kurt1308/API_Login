@@ -1,4 +1,15 @@
-﻿using Autofac;
+﻿using Adaptador.Interfaces;
+using Adapter.Map;
+using Adapter.Utils;
+using Application.Interface;
+using Application.Service;
+using Autofac;
+using Core.Interface.Repositorio;
+using Core.Interface.Servicos;
+using Repositorio.Repositorios;
+using Repository.Repositorios;
+using Service.Servicos;
+using Servico.Servicos;
 
 namespace IoC
 {
@@ -7,17 +18,17 @@ namespace IoC
         public static void Load(ContainerBuilder builder)
         {
             #region IOC SERVICE
-            //builder.RegisterType<ServiceUsuarios>().As<IServiceUsuarios>();
+            builder.RegisterType<ServiceUsuarios>().As<IServiceUsuarios>();
             //builder.RegisterType<ServiceGrupos>().As<IServiceGrupos>();
-            //builder.RegisterType<ServiceAuthAcesso>().As<IServiceAuthAcesso>();
+            builder.RegisterType<ServiceAuthAcesso>().As<IServiceAuthAcesso>();
             //builder.RegisterType<ServiceAuthGrupoXAcesso>().As<IServiceAuthGrupoXAcesso>();
 
             #endregion
 
             #region IOC REPOSITORY
-            //builder.RegisterType<RepositoryUsuarios>().As<IRepositoryUsuarios>();
+            builder.RegisterType<RepositoryUsuarios>().As<IRepositoryUsuarios>();
             //builder.RegisterType<RepositoryGrupos>().As<IRepositoryGrupos>();
-            //builder.RegisterType<RepositoryAuthAcesso>().As<IRepositoryAuthAcesso>();
+            builder.RegisterType<RepositoryAuthAcesso>().As<IRepositoryAuthAcesso>();
             //builder.RegisterType<RepositoryAuthGrupoXAcesso>().As<IRepositoryAuthGrupoXAcesso>();
             #endregion
 
@@ -34,7 +45,7 @@ namespace IoC
             //builder.RegisterType<MapperAddAuthGrupoXAcessoDTO>().As<IMapperAddAuthGrupoXAcessoDTO>();
             //builder.RegisterType<MapperDelAuthGrupoXAcessoDTO>().As<IMapperDelAuthGrupoXAcessoDTO>();
             //builder.RegisterType<MapperGetAuthGrupoXAcesso>().As<IMapperGetAuthGrupoXAcesso>();
-            //builder.RegisterType<MapperLogin>().As<IMapperLogin>();
+            builder.RegisterType<MapperLogin>().As<IMapperLogin>();
             #endregion
 
             #region IOC APPLICATION
@@ -42,7 +53,7 @@ namespace IoC
             //builder.RegisterType<ApplicationGrupos>().As<IApplicationGrupos>();
             //builder.RegisterType<ApplicationAuthAcesso>().As<IApplicationAuthAcesso>();
             //builder.RegisterType<ApplicationAuthGrupoXAcesso>().As<IApplicationAuthGrupoXAcesso>();
-            //builder.RegisterType<ApplicationLogin>().As<IApplicationLogin>();
+            builder.RegisterType<ApplicationLogin>().As<IApplicationLogin>();
             #endregion
 
             #region IOC VALIDATOR
@@ -57,7 +68,7 @@ namespace IoC
             #endregion
 
             #region IOC Utils
-            //builder.RegisterType<GeraToken>().As<IGeraToken>();
+            builder.RegisterType<GeraToken>().As<IGeraToken>();
             #endregion
         }
     }
