@@ -7,6 +7,7 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\D
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\Core.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\Data.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\Dominio.xml
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\Repositorio.csproj.AssemblyReference.cache
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\Repositorio.AssemblyInfoInputs.cache
@@ -17,4 +18,3 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\R
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\refint\Repositorio.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\Repositorio.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\obj\Debug\net5.0\ref\Repositorio.dll
-C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\Repositorio\bin\Debug\net5.0\Dominio.xml

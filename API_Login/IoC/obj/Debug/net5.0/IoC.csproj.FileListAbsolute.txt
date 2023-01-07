@@ -14,9 +14,11 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Aplicacao
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Repositorio.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Servico.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\AplicacaoDto.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\AplicacaoDto.xml
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Core.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Data.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Dominio.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Dominio.xml
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.csproj.AssemblyReference.cache
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.AssemblyInfoInputs.cache
@@ -27,5 +29,3 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\refint\IoC.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\ref\IoC.dll
-C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\AplicacaoDto.xml
-C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\Dominio.xml

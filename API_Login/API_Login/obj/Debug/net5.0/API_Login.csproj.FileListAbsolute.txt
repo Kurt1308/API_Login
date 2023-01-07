@@ -65,12 +65,14 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\IoC
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Repositorio.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Servico.dll
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\AplicacaoDto.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\AplicacaoDto.xml
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Aplicacao.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Data.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\IoC.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Adaptador.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Core.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Dominio.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Dominio.xml
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Repositorio.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Servico.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API_Login.csproj.AssemblyReference.cache
@@ -90,5 +92,3 @@ C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API_Login.pdb
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\API_Login.genruntimeconfig.cache
 C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\obj\Debug\net5.0\ref\API_Login.dll
-C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\AplicacaoDto.xml
-C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\API_Login\bin\Debug\net5.0\Dominio.xml
