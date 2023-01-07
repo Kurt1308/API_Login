@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSZfT7BnxGrJl9C7DgmcAf6y2xN4KCizSGe7UF9ca1KXb+l1BLlkkafN0lLOyJxu3TnSvC+HQVq6QppDWpBz1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\IoC\\IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\lucas.dias\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

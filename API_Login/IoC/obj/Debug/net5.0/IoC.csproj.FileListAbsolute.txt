@@ -1,0 +1,12 @@
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\IoC.deps.json
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\IoC.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\bin\Debug\net5.0\IoC.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.csproj.AssemblyReference.cache
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.AssemblyInfoInputs.cache
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.AssemblyInfo.cs
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.csproj.CoreCompileInputs.cache
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\refint\IoC.dll
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\IoC.pdb
+C:\Users\lucas.dias\Desktop\Projeto PDI\API_Login\IoC\obj\Debug\net5.0\ref\IoC.dll
