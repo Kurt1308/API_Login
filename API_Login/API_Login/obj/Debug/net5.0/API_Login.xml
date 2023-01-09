@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API_Login</name>
+    </assembly>
+    <members>
+        <member name="M:API_Login.Controllers.LoginController.GetTokenForLogin(ApplicationDTO.RequestDTO.RequestTokenDTO)">
+            <summary>
+            Endpoint para buscar o token de login
+            </summary>
+            <param name="request"></param>
+            <returns>Retorna uma mensagem de confirmação</returns>
+            <response code="200">Atualização realizada com sucesso</response>
+            <response code="400">Campos obrigatórios não informados</response>
+            <response code="401">Acesso não autenticado</response>
+            <response code="403">Acesso não autorizado</response>
+            <response code="500">Erro interno na aplicação, vide campo mensagem</response>
+            
+        </member>
+    </members>
+</doc>

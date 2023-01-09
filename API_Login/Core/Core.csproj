@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interface\Servicos\" />
-    <Folder Include="Interface\Repositorio\" />
+    <ProjectReference Include="..\Dominio\Dominio.csproj" />
   </ItemGroup>
 
 </Project>

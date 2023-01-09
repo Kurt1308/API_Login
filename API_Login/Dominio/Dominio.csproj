@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+	<GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.5" />
+    <PackageReference Include="Optivem.Framework.Infrastructure.FluentValidation" Version="1.0.23" />
+  </ItemGroup>
 
 </Project>

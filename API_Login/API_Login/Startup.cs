@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
@@ -15,13 +14,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -85,12 +81,12 @@ namespace API_Login
                     }
                   });
                 //c.SupportNonNullableReferenceTypes();
-                //var API_Login = Path.Combine(System.AppContext.BaseDirectory, "API_Login.xml");
-                //var xmlAplicationDTO = Path.Combine(System.AppContext.BaseDirectory, "ApplicationDTO.xml");
-                //var xmlDomain = Path.Combine(System.AppContext.BaseDirectory, "Domain.xml");
-                //c.IncludeXmlComments(API_Login);
-                //c.IncludeXmlComments(xmlAplicationDTO);
-                //c.IncludeXmlComments(xmlDomain);
+                var API_Login = Path.Combine(System.AppContext.BaseDirectory, "API_Login.xml");
+                var xmlAplicacaoDto = Path.Combine(System.AppContext.BaseDirectory, "AplicacaoDto.xml");
+                var xmlDominio = Path.Combine(System.AppContext.BaseDirectory, "Dominio.xml");
+                c.IncludeXmlComments(API_Login);
+                c.IncludeXmlComments(xmlAplicacaoDto);
+                c.IncludeXmlComments(xmlDominio);
             });
         }
 
@@ -124,6 +120,7 @@ namespace API_Login
                 });
             });
         }
+
         private void SetupJWTServices(IServiceCollection services)
         {
             services.AddAuthentication(options =>
@@ -140,8 +137,9 @@ namespace API_Login
                      ValidIssuer = Configuration["Jwt:Issuer"],
                      ValidAudience = Configuration["Jwt:Audience"],
                      ValidateIssuerSigningKey = true,
-                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
-                 };
+                     //IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+             };
+
 
                  options.Events = new JwtBearerEvents
                  {

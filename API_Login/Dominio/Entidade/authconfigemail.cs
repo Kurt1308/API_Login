@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Domain.Entity
+namespace Dominio.Entidade
 {
     public class authconfigemail
     {

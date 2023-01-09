@@ -107,6 +107,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Optivem.Framework.Infrastructure.FluentValidation": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

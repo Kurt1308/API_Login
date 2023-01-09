@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dominio</name>
+    </assembly>
+    <members>
+        <member name="P:Dominio.Entidade.authacesso.Id">
+             <summary>
+              Id do acesso
+             </summary>
+             <example>35</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authacesso.acessoPermissao">
+             <summary>
+              Tela/aba a ser permitida o acesso
+             </summary>
+             <example>MasterCredito/agenda</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authacesso.situacao">
+             <summary>
+              Situação do acesso. Modelo: 0 para INATIVO e 1 para ATIVO.
+             </summary>
+             <example>1</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authacesso.descricaoPermissao">
+             <summary>
+              Descrição da permissão definida pelo usuário
+             </summary>
+             <example>Master Crédito - Agenda Financeira</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authacesso.ordemExibicao">
+             <summary>
+              Ordem de exibição da aba na tela principal (Ex: MasterCredito) ou na tela do componente pai (Ex: MasterCredito/agenda).
+             </summary>
+             <example>2</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authacesso.NomeExibicao">
+             <summary>
+              Nome de exibição a ser mostrado na tela do usuário final
+             </summary>
+             <example>Agenda Financeira</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authacesso.NomeComposto">
+             <summary>
+              Nome composto do usuário
+             </summary>
+             <example>Harry Potter</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authgrupo.Id">
+             <summary>
+              Id do grupo
+             </summary>
+             <example>565</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authgrupo.nomeGrupo">
+             <summary>
+              Nome do grupo
+             </summary>
+             <example>Contabilidade - Banco do Tio Patinhas</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authgrupo.descricao">
+             <summary>
+              Descrição
+             </summary>
+             <example>Lorem ipsum</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authgrupo.dataDeCriacao">
+             <summary>
+              Data de criação - Formato: YYYY-MM-DD HH:mm:ss
+             </summary>
+             <example>2022-10-21 19:05:00</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.Id">
+             <summary>
+              Id do usuário
+             </summary>
+             <example>565</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.usuario">
+             <summary>
+              Usuário
+             </summary>
+             <example>harry.potter</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.senha">
+             <summary>
+              Senha do usuário
+             </summary>
+             <example>chrissucodefrutas</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.ultimoAcesso">
+            <summary>
+             Data do último acesso - Formato: YYYY-MM-DD HH:mm:ss
+            </summary>
+            <example>2022-10-21 19:05:00</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.email">
+             <summary>
+              E-mail
+             </summary>
+             <example>harry.potter@b2card.com</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.situacao">
+             <summary>
+              Situação do acesso. Modelo: 0 para INATIVO e 1 para ATIVO.
+             </summary>
+             <example>1</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.administrador">
+             <summary>
+              Id do administrador do usuário
+             </summary>
+             <example>65</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.grupo">
+             <summary>
+              Id do do grupo
+             </summary>
+             <example>445</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.dataDeCriacao">
+            <summary>
+             Data de criação - Formato: YYYY-MM-DD HH:mm:ss
+            </summary>
+            <example>2022-10-21 19:05:00</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.apiPass">
+            <summary>
+             Token do usuário para acesso da API
+            </summary>
+            <example>fjiodfjjdfsdfFSFSDFSDFsdfsdfSDFSDFWRqeaskAOPJSKOPas233</example>
+            
+        </member>
+        <member name="P:Dominio.Entidade.authusuario.Cpf">
+             <summary>
+              CPF do usuário. Modelo: 000-000-000-00 ou 000.000.000.00 ou 00000000000.
+             </summary>
+             <example>123-456-789-12</example>
+            
+        </member>
+    </members>
+</doc>
