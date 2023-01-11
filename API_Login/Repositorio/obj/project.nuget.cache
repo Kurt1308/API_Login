@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YT0SOdTPXXGKOKAg00m1btLrW5IdCaJXtvZkhzHGUPrbaDpp1MAvFF9WhK7Kjmv1LQW7JKKl6dLd+LFl7MI61A==",
+  "dgSpecHash": "1eoBI6bmnQ2YazJg3gLDz/ryCrw8UiXwbtTdhTfyMaQeZFyc0H5Hm+CGjrshBr/bKgQSdmGuL2O6pqfMqrM+WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",

@@ -989,11 +989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
       "projectName": "Servico",
-      "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
+      "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
       "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Servico\\obj\\",
+      "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1010,11 +1010,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Core\\Core.csproj"
+            "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj"
             },
-            "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
+            "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
             }
           }
         }

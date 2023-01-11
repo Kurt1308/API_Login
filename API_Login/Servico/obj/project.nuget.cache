@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdcMZ65nsIquDngwqql5hqem1bfwTFDd7YMuO6EGhgKOB+9IFRkLO1qWWqH8kzo4Z0683X/QrlpQpWlBkI9/3A==",
+  "dgSpecHash": "dKpnY9tjrp0W5nzcSK9conPwkYT4PETEE6MDugAtCOE1XYqRSlgJK45j/WQXw9B9jljfGUfUMtKhWw6JATwGLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",

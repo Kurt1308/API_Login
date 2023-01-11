@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgvjQLKjxK3wlRNm2EU3Si1/bfyunUH9F2OQ7X8UsabGM18ovQja7EJyf8ywWjWt5tGAddcccah1EMAsseyczQ==",
+  "dgSpecHash": "nizdxDbjrq8j3P1MSvnVMO6aTZ7gjtS54Sx5q+5Aw+M6+ER9hZjO4aV/tecLSNkUViyV/W31YexqKMn0j9kfjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\API_Login\\API_Login.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\API_Login\\API_Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
