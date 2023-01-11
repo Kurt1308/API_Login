@@ -26,7 +26,6 @@ namespace API_Login.Controllers
         /// <response code="401">Acesso não autenticado</response>
         /// <response code="403">Acesso não autorizado</response>
         /// <response code="500">Erro interno na aplicação, vide campo mensagem</response>
-        /// 
         [ProducesResponseType(typeof(ResponseTokenDTO), 200)]
         [ProducesResponseType(typeof(ResponseTokenDTO), 401)]
         [ProducesResponseType(typeof(ResponseTokenDTO), 500)]

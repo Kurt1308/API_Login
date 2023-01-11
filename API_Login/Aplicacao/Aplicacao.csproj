@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Validador\" />
+    <Compile Remove="Validador\**" />
+    <EmbeddedResource Remove="Validador\**" />
+    <None Remove="Validador\**" />
   </ItemGroup>
 
   <ItemGroup>

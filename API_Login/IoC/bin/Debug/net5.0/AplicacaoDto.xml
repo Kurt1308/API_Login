@@ -13,14 +13,14 @@
              <summary>
               Usuário
              </summary>
-             <example>harry.potter</example>
+             <example>lucas@gmail.com</example>
             
         </member>
         <member name="P:ApplicationDTO.RequestDTO.RequestTokenDTO.password">
              <summary>
               Senha
              </summary>
-             <example>chrissucodefrutas</example>
+             <example>1234</example>
             
         </member>
         <member name="T:ApplicationDTO.ResponseDTO.ResponseDTO">

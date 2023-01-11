@@ -5,25 +5,21 @@ using ApplicationDTO.ResponseDTO;
 using Core.Interface.Servicos;
 using Dominio.Entidade;
 using System;
-using System.Collections.Generic;
 using System.Net;
 
 namespace Application.Service
 {
     public class ApplicationLogin : IApplicationLogin
     {
-        private const string msgUserValidation = "USUÁRIO NÃO INFORMADO NA REQUISIÇÃO";
         private const string msgNotFound = "USUÁRIO OU SENHA INVÁLIDOS";
         private const string msgUnauthorized = "USUÁRIO DESATIVADO, SOLICITE AO ADMINISTRADOR A ATIVAÇÃO";
         private readonly IServiceUsuarios _serviceUsuarios;
-        private readonly IServiceAuthAcesso _serviceAuthAcesso;
         private readonly IMapperLogin _mapperLogin;
         private readonly IGeraToken _geraToken;
 
-        public ApplicationLogin(IServiceUsuarios serviceUsuarios, IServiceAuthAcesso serviceAuthAcesso, IGeraToken geraToken, IMapperLogin mapperLogin)
+        public ApplicationLogin(IServiceUsuarios serviceUsuarios, IGeraToken geraToken, IMapperLogin mapperLogin)
         {
             _serviceUsuarios = serviceUsuarios;
-            _serviceAuthAcesso = serviceAuthAcesso;
             _geraToken = geraToken;
             _mapperLogin = mapperLogin;
         }
@@ -38,7 +34,6 @@ namespace Application.Service
                         return _mapperLogin.MapperToDTO(HttpStatusCode.Unauthorized, msgUnauthorized, null);
                     else
                     {
-                        //IEnumerable<authacesso> acessos = _serviceAuthAcesso.GetAllAcessoUsuario(usuarioValido.Id);
                         var strTokenString = _geraToken.GerarTokenJWT(usuarioValido);
                         return _mapperLogin.MapperToDTO(HttpStatusCode.OK, null, strTokenString);
                     }
