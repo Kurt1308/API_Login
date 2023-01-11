@@ -38,8 +38,8 @@ namespace Application.Service
                         return _mapperLogin.MapperToDTO(HttpStatusCode.Unauthorized, msgUnauthorized, null);
                     else
                     {
-                        IEnumerable<authacesso> acessos = _serviceAuthAcesso.GetAllAcessoUsuario(usuarioValido.Id);
-                        var strTokenString = _geraToken.GerarTokenJWT(usuarioValido, acessos);
+                        //IEnumerable<authacesso> acessos = _serviceAuthAcesso.GetAllAcessoUsuario(usuarioValido.Id);
+                        var strTokenString = _geraToken.GerarTokenJWT(usuarioValido);
                         return _mapperLogin.MapperToDTO(HttpStatusCode.OK, null, strTokenString);
                     }
                 }

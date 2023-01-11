@@ -13,7 +13,9 @@ namespace Adapter.Utils
 {
     public class GeraToken : IGeraToken
     {
-        public string GerarTokenJWT(authusuario usuario, IEnumerable<authacesso> acessos)
+        public string GerarTokenJWT(authusuario usuario
+            //, IEnumerable<authacesso> acessos
+            )
         {
             var Configuration = new ConfigurationBuilder()
                .SetBasePath(Directory.GetCurrentDirectory())
@@ -35,8 +37,8 @@ namespace Adapter.Utils
             //claims_token.Add(new Claim("nomeGrupo", usuario.authgrupo_nav.nomeGrupo));
             claims_token.Add(new Claim("cpf", usuario.Cpf));
 
-            foreach (var role in acessos)
-                claims_token.Add(new Claim("role", role.NomeComposto));
+            //foreach (var role in acessos)
+            //    claims_token.Add(new Claim("role", role.NomeComposto));
 
             var token = new JwtSecurityToken(claims: claims_token, issuer: Configuration["Jwt:Issuer"], audience: Configuration["Jwt:Audience"], expires: dtimeExpiry, signingCredentials: credentials);
             var tokenHandler = new JwtSecurityTokenHandler();
