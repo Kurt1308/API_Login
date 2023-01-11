@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wn8UG8NMW/3c8wYrRdD4avhG4KC0K0qr4E0qopiO3jMyFlAi+sgC23bDRwpJwvOKzKxN7vljUfWQZC47mG2fJQ==",
+  "dgSpecHash": "ahBSF6kFK4dSsTNt83gT0uOlcQsTzT2qeGtZ6FgGQi+TVZYvQDYNuHZqW3fil9DLZ9xIvR5h9RgDkNSMDLvQDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
@@ -34,5 +34,12 @@
     "C:\\Users\\lucas.dias\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

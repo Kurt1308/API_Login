@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a99H6FctPe9LBwOVp41VyxGvWJM4Swk8qa5dNwwoq4O3/vs6BORqjlfPFbK0cApCDsOecJb9pm5uCLYsccX4tQ==",
+  "dgSpecHash": "lr+WmVrUaFyUqrkExcOl8NnMAO5xFbTHDjHiGg51VIyU4RJYNz8C0smgfy5qxbklJgxmEA/9oZfvs6GUJKYNew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\Aplicacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
@@ -46,5 +46,12 @@
     "C:\\Users\\lucas.dias\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.13.1\\system.identitymodel.tokens.jwt.6.13.1.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

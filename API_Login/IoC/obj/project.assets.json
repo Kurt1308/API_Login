@@ -6415,11 +6415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\IoC\\IoC.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\IoC.csproj",
       "projectName": "IoC",
-      "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\IoC\\IoC.csproj",
+      "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\IoC.csproj",
       "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\IoC\\obj\\",
+      "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6436,17 +6436,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj"
+            "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj": {
+              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj"
             },
-            "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj"
+            "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\Aplicacao.csproj"
             },
-            "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj"
+            "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj": {
+              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj"
             },
-            "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Servico\\Servico.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Servico\\Servico.csproj"
+            "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj": {
+              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj"
             }
           }
         }
@@ -6484,5 +6484,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

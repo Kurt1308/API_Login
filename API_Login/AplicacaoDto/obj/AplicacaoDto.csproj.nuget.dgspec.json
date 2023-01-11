@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {}
+    "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
+    "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
         "projectName": "AplicacaoDto",
-        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\AplicacaoDto\\obj\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",

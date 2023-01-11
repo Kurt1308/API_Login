@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YT0SOdTPXXGKOKAg00m1btLrW5IdCaJXtvZkhzHGUPrbaDpp1MAvFF9WhK7Kjmv1LQW7JKKl6dLd+LFl7MI61A==",
+  "dgSpecHash": "jPlBx2WGMKJr/ACNS477nG5GILEGAtMqfYbV1OBgSY/7PywZJgjSHcX2ZfowHQgpBJtniu4LmlosXzv7CwPjKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
@@ -112,5 +112,12 @@
     "C:\\Users\\lucas.dias\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

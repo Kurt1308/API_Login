@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDMAnEo6ea5ri2sRv/M7uLRjB1pLkVZWtFVPmAKqqYkvW/aP3pEITBxW5mCOAlErWu2oOLq4RlHTWNsaXHWmhg==",
+  "dgSpecHash": "18KiLAk8D92JfjhqsUiBOE57jGjCZmPjp/YJxSTOK05b2/1SdKa0ZcPYexdFOQY2CsLigNxcTyMwMQ0WS+0LIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
