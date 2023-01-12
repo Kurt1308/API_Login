@@ -84,7 +84,5 @@ namespace Dominio.Entidade
         ///
         [StringLength(50)]
         public string Cpf { get; set; }
-        [ForeignKey("grupo")]
-        public virtual authgrupo authgrupo_nav { get; set; }
     }
 }

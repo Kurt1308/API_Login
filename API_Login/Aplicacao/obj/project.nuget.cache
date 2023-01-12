@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "lr+WmVrUaFyUqrkExcOl8NnMAO5xFbTHDjHiGg51VIyU4RJYNz8C0smgfy5qxbklJgxmEA/9oZfvs6GUJKYNew==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\Aplicacao.csproj",
+=======
+  "dgSpecHash": "RZ5136GJOgAG/o31SnDDG4InlxvogOgFTyebc9ZZTJ3zUbhH1/Vkefnvr9zM7pdmWenJo7J7XnF+j/Qg/6ybRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj",
+>>>>>>> Desenvolvimento
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",

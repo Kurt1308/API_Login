@@ -5,6 +5,8 @@ namespace Adaptador.Interfaces
 {
     public interface IGeraToken
     {
-        string GerarTokenJWT(authusuario usuario, IEnumerable<authacesso> acessos);
+        string GerarTokenJWT(authusuario usuario
+            //, IEnumerable<authacesso> acessos
+            );
     }
 }

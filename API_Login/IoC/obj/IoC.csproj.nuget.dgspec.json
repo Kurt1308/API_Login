@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\IoC.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\IoC\\IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj",
+        "projectName": "Adaptador",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +42,19 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj"
               },
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }
@@ -83,6 +105,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -91,6 +114,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
+        "projectName": "AplicacaoDto",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,6 +170,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -145,6 +179,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\Aplicacao.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Aplicacao\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj",
+        "projectName": "Aplicacao",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,6 +205,7 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj"
               },
@@ -172,6 +217,19 @@
               },
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }
@@ -204,6 +262,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -212,6 +271,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,8 +297,13 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }
@@ -262,6 +336,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -270,6 +345,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -286,8 +371,13 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }
@@ -330,6 +420,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -338,6 +429,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -398,6 +499,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\IoC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -406,6 +508,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\IoC.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\IoC\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\IoC\\IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\IoC\\IoC.csproj",
+        "projectName": "IoC",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\IoC\\IoC.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\IoC\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -422,6 +534,7 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Adaptador\\Adaptador.csproj"
               },
@@ -433,6 +546,19 @@
               },
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Adaptador\\Adaptador.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Aplicacao\\Aplicacao.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }
@@ -471,6 +597,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -479,6 +606,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -495,11 +632,19 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj"
               },
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\Data.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\Data.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }
@@ -532,6 +677,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -540,6 +686,16 @@
         "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj",
         "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\obj\\",
+=======
+    "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
+        "projectName": "Servico",
+        "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
+        "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\obj\\",
+>>>>>>> Desenvolvimento
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -556,11 +712,19 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj"
               },
               "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj"
+              },
+              "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Dominio\\Dominio.csproj"
+>>>>>>> Desenvolvimento
               }
             }
           }

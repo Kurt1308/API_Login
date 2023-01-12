@@ -13,10 +13,6 @@ namespace Data
 
         }
         public SqlContext(DbContextOptions<SqlContext> options) : base(options) { }
-        public DbSet<authacesso> authacesso { get; set; }
-        public DbSet<authconfigemail> authconfigemail { get; set; }
-        public DbSet<authgrupo> authgrupo { get; set; }
-        public DbSet<authgrupoxacesso> authgrupoxacesso { get; set; }
         public DbSet<authusuario> authusuario { get; set; }
 
     }

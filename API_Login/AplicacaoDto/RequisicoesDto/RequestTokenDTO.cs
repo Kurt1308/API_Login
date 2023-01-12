@@ -10,14 +10,14 @@ namespace ApplicationDTO.RequestDTO
         /// <summary>
         ///  Usuário
         /// </summary>
-        /// <example>harry.potter</example>
+        /// <example>lucas@gmail.com</example>
         ///
         [Required]
         public string username { get; set; }
         /// <summary>
         ///  Senha
         /// </summary>
-        /// <example>chrissucodefrutas</example>
+        /// <example>1234</example>
         ///
         [Required]
         public string password { get; set; }
