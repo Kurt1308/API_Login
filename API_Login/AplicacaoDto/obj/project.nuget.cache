@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "18KiLAk8D92JfjhqsUiBOE57jGjCZmPjp/YJxSTOK05b2/1SdKa0ZcPYexdFOQY2CsLigNxcTyMwMQ0WS+0LIw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
-=======
   "dgSpecHash": "7vz2qW+K91XUZJZ1NQLH4B47ZGUPP2Zp72aMo8TXSjHOPeN8kizeZadfqgtqEK+6TWsp/JtJxySS1j45t8WxJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\AplicacaoDto.csproj",
->>>>>>> Desenvolvimento
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\AplicacaoDto\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

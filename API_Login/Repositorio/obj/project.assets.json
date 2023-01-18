@@ -6124,19 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj",
-      "projectName": "Repositorio",
-      "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\Repositorio.csproj",
-      "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
       "projectName": "Repositorio",
       "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\Repositorio.csproj",
       "packagesPath": "C:\\Users\\lucas.dias\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\obj\\",
->>>>>>> Desenvolvimento
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6153,19 +6145,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
-            "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Core\\Core.csproj"
-            },
-            "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Data\\Data.csproj"
-=======
             "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj": {
               "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Core\\Core.csproj"
             },
             "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj": {
               "projectPath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Data\\Data.csproj"
->>>>>>> Desenvolvimento
             }
           }
         }
@@ -6203,7 +6187,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Repositorio\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Repositorio\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }

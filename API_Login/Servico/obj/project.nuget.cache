@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "x8N0qhxA25RbgYNaqhE7vzCu3/iNJvu4rsg7ABv07vn4EzB58PACSFkjjP7JfXuE6nGorWuOhma/PN+5xxh9aA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\Servico.csproj",
-=======
   "dgSpecHash": "dKpnY9tjrp0W5nzcSK9conPwkYT4PETEE6MDugAtCOE1XYqRSlgJK45j/WQXw9B9jljfGUfUMtKhWw6JATwGLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\Servico.csproj",
->>>>>>> Desenvolvimento
   "expectedPackageFiles": [
     "C:\\Users\\lucas.dias\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\lucas.dias\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
@@ -45,7 +39,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\API_Login\\API-com-token-e-front-end.-\\API_Login\\Servico\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\lucas.dias\\Desktop\\DDD 2022\\Projeto PDI\\API_Login\\Servico\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
